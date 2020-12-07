@@ -68,6 +68,7 @@ section{
 
 .twice{
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-around;
     align-items: center;
 }
@@ -167,6 +168,7 @@ section{
 }
 .company-wrap{
     display: flex;
+    flex-wrap: wrap;    
     justify-content: center;
 }
 .company-block-1{
@@ -209,6 +211,7 @@ section{
 
 .send{
     display: flex;
+    flex-wrap: wrap;
     align-items: center;
     justify-content: center;
     padding: 150px 0;
